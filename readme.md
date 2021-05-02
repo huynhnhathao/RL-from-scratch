@@ -1,4 +1,3 @@
-# Reinforcement Learning Agents play game
-This repository implementing varous famous RL algorithms from scratch to play game, on jupyter notebooks.
+# My implementations of RL algorithms from scratch
 
-Why jupyter notebook? Because who don't like jupyter notebook with free GPU on colab??
+I implementing varous RL algorithm from scratch, by just read the algorithms descriptions. My implementations may not be the most efficient, but it's pretty easy to read, has plenty of explanatory comments, and user manual. 
